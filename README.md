@@ -18,11 +18,11 @@ http://gamehub.run/
 
 ### [게임 이름]
 
-강성연 : 스페이스 배틀
-이은경 : 화살 피했냥
-조유정 : 네즈코 버드
-임종민 : 테트리스
-임휘경 : 망각의 숲
+- **강성연** : 스페이스 배틀
+- **이은경** : 화살 피했냥
+- **조유정** : 네즈코 버드
+- **임종민** : 테트리스
+- **임휘경** : 망각의 숲
 
 - [요구사항 정의서](https://docs.google.com/spreadsheets/d/1Vb5QTPDVeB6gVxtp12Mot73xRhw6XxGCnSMxz1Y8jA8/edit?gid=620976748#gid=620976748)
 - [요구사항 명세서](https://docs.google.com/spreadsheets/d/1ouiq9RLToUAMYnVeUvoi-Z9-SQLlKIalfHuCM9MwqF4/edit?gid=279214655#gid=279214655)
